@@ -13,19 +13,17 @@ require (
 	github.com/distatus/battery v0.10.0
 	github.com/go-ole/go-ole v1.2.5 // indirect
 	github.com/google/uuid v1.2.0 // indirect
-	github.com/gookit/color v1.3.8
+	github.com/gookit/color v1.5.2
 	github.com/gookit/config/v2 v2.0.22
-	github.com/gookit/goutil v0.3.12 // indirect
+	github.com/gookit/goutil v0.6.0 // indirect
 	github.com/huandu/xstrings v1.3.2 // indirect
 	github.com/mitchellh/copystructure v1.1.1 // indirect
 	github.com/sergi/go-diff v1.1.0 // indirect
 	github.com/shirou/gopsutil v3.21.2+incompatible
-	github.com/stretchr/objx v0.3.0 // indirect
-	github.com/stretchr/testify v1.7.0
+	github.com/stretchr/testify v1.8.0
 	github.com/tklauser/go-sysconf v0.3.5 // indirect
-	golang.org/x/crypto v0.0.0-20210322153248-0c34fe9e7dc2 // indirect
-	golang.org/x/sys v0.0.0-20210324051608-47abb6519492
-	golang.org/x/text v0.3.5
+	golang.org/x/sys v0.0.0-20220829200755-d48e67d00261
+	golang.org/x/text v0.4.0
 	howett.net/plist v0.0.0-20201203080718-1454fab16a06 // indirect
 )
 
